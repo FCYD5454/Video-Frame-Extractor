@@ -75,3 +75,7 @@ Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, FFmpeg via `fluen
 - `ffmpeg-static` covers common platforms/codecs; very large videos still consume disk and memory.
 - The face model is fetched from a CDN at runtime; offline deployments need local copies.
 - In scene mode, a lower threshold yields more frames.
+
+## License
+
+[MIT](LICENSE)
